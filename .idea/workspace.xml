@@ -6,56 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="024747cc-d521-4b4e-85e2-52c184c17f85" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dotnetwebapi/.idea/.idea.dotnetwebapi.dir/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dotnetwebapi/.idea/.idea.dotnetwebapi.dir/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dotnetwebapi/.idea/.idea.dotnetwebapi.dir/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dotnetwebapi/.idea/.idea.dotnetwebapi.dir/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dotnetwebapi/Controllers/WeatherController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dotnetwebapi/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dotnetwebapi/Properties/launchSettings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dotnetwebapi/appsettings.Development.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dotnetwebapi/appsettings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dotnetwebapi/bin/Debug/net6.0/Microsoft.OpenApi.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dotnetwebapi/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dotnetwebapi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dotnetwebapi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dotnetwebapi/bin/Debug/net6.0/appsettings.Development.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dotnetwebapi/bin/Debug/net6.0/appsettings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dotnetwebapi/bin/Debug/net6.0/dotnetwebapi" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dotnetwebapi/bin/Debug/net6.0/dotnetwebapi.deps.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dotnetwebapi/bin/Debug/net6.0/dotnetwebapi.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dotnetwebapi/bin/Debug/net6.0/dotnetwebapi.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dotnetwebapi/bin/Debug/net6.0/dotnetwebapi.runtimeconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dotnetwebapi/dotnetwebapi.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dotnetwebapi/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dotnetwebapi/obj/Debug/net6.0/apphost" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dotnetwebapi/obj/Debug/net6.0/dotnetwebapi.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dotnetwebapi/obj/Debug/net6.0/dotnetwebapi.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dotnetwebapi/obj/Debug/net6.0/dotnetwebapi.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dotnetwebapi/obj/Debug/net6.0/dotnetwebapi.GlobalUsings.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dotnetwebapi/obj/Debug/net6.0/dotnetwebapi.MvcApplicationPartsAssemblyInfo.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dotnetwebapi/obj/Debug/net6.0/dotnetwebapi.MvcApplicationPartsAssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dotnetwebapi/obj/Debug/net6.0/dotnetwebapi.assets.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dotnetwebapi/obj/Debug/net6.0/dotnetwebapi.csproj.AssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dotnetwebapi/obj/Debug/net6.0/dotnetwebapi.csproj.CopyComplete" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dotnetwebapi/obj/Debug/net6.0/dotnetwebapi.csproj.CoreCompileInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dotnetwebapi/obj/Debug/net6.0/dotnetwebapi.csproj.FileListAbsolute.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dotnetwebapi/obj/Debug/net6.0/dotnetwebapi.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dotnetwebapi/obj/Debug/net6.0/dotnetwebapi.genruntimeconfig.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dotnetwebapi/obj/Debug/net6.0/dotnetwebapi.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dotnetwebapi/obj/Debug/net6.0/ref/dotnetwebapi.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dotnetwebapi/obj/Debug/net6.0/refint/dotnetwebapi.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dotnetwebapi/obj/Debug/net6.0/staticwebassets.build.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dotnetwebapi/obj/dotnetwebapi.csproj.nuget.dgspec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dotnetwebapi/obj/dotnetwebapi.csproj.nuget.g.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dotnetwebapi/obj/dotnetwebapi.csproj.nuget.g.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dotnetwebapi/obj/project.assets.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dotnetwebapi/obj/project.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dotnetwebapi/obj/project.packagespec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dotnetwebapi/obj/staticwebassets.pack.sentinel" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elfak-rwa-rxjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/strapi-reliv-ecomm/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/strapi-reliv-ecomm/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/strapi-reliv-ecomm/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/strapi-reliv-ecomm/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,9 +25,6 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="PackageJsonUpdateNotifier">
-    <dismissed value="$PROJECT_DIR$/strapi-reliv-ecomm/package.json" />
-  </component>
   <component name="ProjectId" id="2NuVZb2t6YlF1YXsm90C5HyYW0n" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -87,8 +34,13 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/codemancydev/Documents/GitHub/foodadvisor",
+    "WebServerToolWindowFactoryState": "true",
+    "WebServerToolWindowPanel.toolwindow.highlight.mappings": "true",
+    "WebServerToolWindowPanel.toolwindow.highlight.symlinks": "true",
+    "WebServerToolWindowPanel.toolwindow.show.date": "false",
+    "WebServerToolWindowPanel.toolwindow.show.permissions": "false",
+    "WebServerToolWindowPanel.toolwindow.show.size": "false",
+    "last_opened_file_path": "/home/codemancydev/Documents/GitHub/strapi-preview-test",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -113,6 +65,7 @@
       <updated>1680514010796</updated>
       <workItem from="1680514012029" duration="1767000" />
       <workItem from="1680600026376" duration="9505000" />
+      <workItem from="1680612762510" duration="3240000" />
     </task>
     <servers />
   </component>
