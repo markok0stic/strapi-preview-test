@@ -1,5 +1,5 @@
 {
-  "name": "strapi-reliv-ecomm",
+  "name": "reliv-ecomm-strapi",
   "private": true,
   "version": "0.1.0",
   "description": "A Strapi application",
@@ -9,22 +9,18 @@
     "build": "strapi build",
     "strapi": "strapi"
   },
+  "devDependencies": {},
   "dependencies": {
-    "@sklinet/strapi-plugin-tinymce": "^1.0.4",
-    "@strapi/plugin-documentation": "^4.9.0",
-    "@strapi/plugin-i18n": "4.9.0",
-    "@strapi/plugin-users-permissions": "4.9.0",
     "@strapi/strapi": "4.9.0",
-    "@webbio/strapi-plugin-scheduler": "^1.0.2",
-    "mysql": "2.18.1",
-    "strapi-plugin-preview-button": "^1.1.2",
-    "strapi-plugin-todo": "^0.0.9"
+    "@strapi/plugin-users-permissions": "4.9.0",
+    "@strapi/plugin-i18n": "4.9.0",
+    "mysql": "2.18.1"
   },
   "author": {
     "name": "A Strapi developer"
   },
   "strapi": {
-    "uuid": "a99b43de-55c2-47c3-addf-3a1abf6b2ccd"
+    "uuid": "92b6db3f-963d-4b60-9903-65eafbd300f9"
   },
   "engines": {
     "node": ">=14.19.1 <=18.x.x",

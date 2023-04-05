@@ -5,7 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="024747cc-d521-4b4e-85e2-52c184c17f85" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/remix-strapi-preview/app/components/Product.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webServers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strapi-reliv-ecomm/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strapi-reliv-ecomm/.env.example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strapi-reliv-ecomm/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strapi-reliv-ecomm/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strapi-reliv-ecomm/config/admin.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strapi-reliv-ecomm/config/api.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strapi-reliv-ecomm/config/database.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strapi-reliv-ecomm/config/middlewares.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strapi-reliv-ecomm/config/server.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strapi-reliv-ecomm/database/migrations/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/remix-strapi-preview/app/components/Layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strapi-reliv-ecomm/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strapi-reliv-ecomm/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strapi-reliv-ecomm/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strapi-reliv-ecomm/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strapi-reliv-ecomm/public/uploads/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/remix-strapi-preview/app/utils/errorHandling.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strapi-reliv-ecomm/src/admin/app.example.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strapi-reliv-ecomm/src/admin/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strapi-reliv-ecomm/src/admin/webpack.config.example.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strapi-reliv-ecomm/src/api/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/remix-strapi-preview/app/utils/url.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strapi-reliv-ecomm/src/extensions/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strapi-reliv-ecomm/src/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strapi-reliv-ecomm/tsconfig.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +40,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="TypeScript JSX File" />
       </list>
     </option>
   </component>
@@ -40,13 +65,15 @@
     "WebServerToolWindowPanel.toolwindow.show.date": "false",
     "WebServerToolWindowPanel.toolwindow.show.permissions": "false",
     "WebServerToolWindowPanel.toolwindow.show.size": "false",
-    "last_opened_file_path": "/home/codemancydev/Documents/GitHub/strapi-preview-test",
+    "last_opened_file_path": "/home/marko/Documents/GitHub/foodadvisor-master(1)/foodadvisor-master",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "/home/marko/.nvm/versions/node/v18.15.0/bin/node",
     "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "/home/codemancydev/Documents/GitHub/strapi-preview-test/strapi-next-previewer/node_modules/typescript/lib",
+    "settings.editor.selected.configurable": "settings.nodejs",
+    "ts.external.directory.path": "/home/marko/Documents/GitHub/strapi-preview-test/remix-strapi-preview/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -66,10 +93,28 @@
       <workItem from="1680514012029" duration="1767000" />
       <workItem from="1680600026376" duration="9505000" />
       <workItem from="1680612762510" duration="3240000" />
+      <workItem from="1680681549066" duration="871000" />
+      <workItem from="1680685904370" duration="19000" />
+      <workItem from="1680685929712" duration="1140000" />
+      <workItem from="1680693634002" duration="27000" />
+      <workItem from="1680693671456" duration="19000" />
+      <workItem from="1680693713653" duration="6788000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/remix-strapi-preview/app/routes/_index.tsx</url>
+          <line>7</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

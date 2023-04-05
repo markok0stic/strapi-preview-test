@@ -1,0 +1,22 @@
+{
+  "kind": "singleType",
+  "collectionName": "product_templates",
+  "info": {
+    "singularName": "product-template",
+    "pluralName": "product-templates",
+    "displayName": "Home",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "Content": {
+      "type": "text"
+    }
+  }
+}

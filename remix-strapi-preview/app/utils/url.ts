@@ -1,0 +1,4 @@
+export default "http://localhost:1338";
+
+export const STRAPI_URL_BASE = "http://localhost:1338";
+export const STRAPI_API_TOKEN = "9900e00c290a88ef8ef55d662d287201724982f9705c302ab0f76cfe78b5e1bcd3676e4ede2a3e0d522c9ad50f2d4304a40363f512fdd66ced2c05ba4693a7603a12b4b843438af951d4459d9e25598fe89f0883b3f3813aadabf6e90601e3b27674622dcb9a4bb61c0c84c2308549af33064af0e14a7e9a39a9ebc29582be84";

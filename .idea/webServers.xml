@@ -5,7 +5,7 @@
       <webServer id="2a014183-6d49-4ce1-aace-a9ffc89d9078" name="CdmNode">
         <fileTransfer rootFolder="/home/admin/web" accessType="SFTP" host="cdmnode.fastcloudnetwork.com" port="22" sshConfigId="afae8571-12b5-4fc8-a882-2244f3be9bc6" sshConfig="admin@cdmnode.fastcloudnetwork.com:22 password">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="cdmnode.fastcloudnetwork.com" id="afae8571-12b5-4fc8-a882-2244f3be9bc6" port="22" nameFormat="DESCRIPTIVE" username="admin" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>
