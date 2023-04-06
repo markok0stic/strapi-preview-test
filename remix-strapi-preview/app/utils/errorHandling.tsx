@@ -1,5 +1,6 @@
 // Custom error class for errors from Strapi API
-import {STRAPI_API_TOKEN, STRAPI_URL_BASE} from "~/utils/url";
+import {CLIENT_PREVIEW_SECRET, STRAPI_API_TOKEN, STRAPI_URL_BASE} from "~/utils/url";
+import * as process from "process";
 
 class APIResponseError extends Error {
     constructor(response: any) {
@@ -25,11 +26,12 @@ class MissingEnvironmentVariable extends Error {
 export const checkEnvVars = () => {
     const envVars = [
         'STRAPI_URL_BASE',
-        'STRAPI_API_TOKEN'
+        'STRAPI_API_TOKEN',
+        'CLIENT_PREVIEW_SECRET'
     ];
-
     process.env['STRAPI_URL_BASE'] = STRAPI_URL_BASE;
     process.env['STRAPI_API_TOKEN'] = STRAPI_API_TOKEN;
+    process.env['CLIENT_PREVIEW_SECRET'] = CLIENT_PREVIEW_SECRET;
 
     for (const envVar of envVars) {
         if (!process.env[envVar]) {
