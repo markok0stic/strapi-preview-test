@@ -5,43 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="024747cc-d521-4b4e-85e2-52c184c17f85" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/remix-strapi-preview/app/routes/api/preview.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/remix-strapi-preview/app/routes/api.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/remix-strapi-preview/app/routes/preview.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reliv-ecomm-strapi/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reliv-ecomm-strapi/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reliv-ecomm-strapi/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reliv-ecomm-strapi/config/admin.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reliv-ecomm-strapi/config/api.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reliv-ecomm-strapi/config/database.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reliv-ecomm-strapi/config/middlewares.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reliv-ecomm-strapi/config/server.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reliv-ecomm-strapi/database/migrations/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/reliv-strapi-ecomm/config/plugins.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reliv-ecomm-strapi/favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reliv-ecomm-strapi/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reliv-ecomm-strapi/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reliv-ecomm-strapi/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reliv-ecomm-strapi/public/uploads/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/remix-strapi-preview/app/services/products.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reliv-ecomm-strapi/src/admin/app.example.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reliv-ecomm-strapi/src/admin/tsconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reliv-ecomm-strapi/src/admin/webpack.config.example.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reliv-ecomm-strapi/src/api/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reliv-ecomm-strapi/src/api/product-template/content-types/product-template/schema.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reliv-ecomm-strapi/src/api/product-template/controllers/product-template.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reliv-ecomm-strapi/src/api/product-template/routes/product-template.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reliv-ecomm-strapi/src/api/product-template/services/product-template.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reliv-ecomm-strapi/src/api/product/content-types/product/schema.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reliv-ecomm-strapi/src/api/product/controllers/product.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reliv-ecomm-strapi/src/api/product/routes/product.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reliv-ecomm-strapi/src/api/product/services/product.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reliv-ecomm-strapi/src/components/shared/button.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reliv-ecomm-strapi/src/components/shared/link.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reliv-ecomm-strapi/src/extensions/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reliv-ecomm-strapi/src/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reliv-ecomm-strapi/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reliv-strapi-ecomm/config/plugins.ts" beforeDir="false" afterPath="$PROJECT_DIR$/reliv-strapi-ecomm/config/plugins.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reliv-strapi-ecomm/src/extensions/documentation/documentation/1.0.0/full_documentation.json" beforeDir="false" afterPath="$PROJECT_DIR$/reliv-strapi-ecomm/src/extensions/documentation/documentation/1.0.0/full_documentation.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/remix-strapi-preview/app/components/Layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/remix-strapi-preview/app/components/Layout.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/remix-strapi-preview/app/components/Product.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/remix-strapi-preview/app/components/Product.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/remix-strapi-preview/app/routes/_index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/remix-strapi-preview/app/routes/_index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/remix-strapi-preview/app/routes/api/preview/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/remix-strapi-preview/app/services/products.ts" beforeDir="false" afterPath="$PROJECT_DIR$/remix-strapi-preview/app/services/products.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/remix-strapi-preview/app/utils/errorHandling.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/remix-strapi-preview/app/utils/errorHandling.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/remix-strapi-preview/app/utils/url.ts" beforeDir="false" afterPath="$PROJECT_DIR$/remix-strapi-preview/app/utils/url.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/remix-strapi-preview/app/utils/url.ts" beforeDir="false" afterPath="$PROJECT_DIR$/remix-strapi-preview/app/utils/consts.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +66,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/remix-strapi-preview/app/routes/api/preview" />
       <recent name="$PROJECT_DIR$/remix-strapi-preview/app/routes/api" />
       <recent name="$PROJECT_DIR$/reliv-ecomm-strapi/src/components" />
       <recent name="$PROJECT_DIR$/strapi-next-previewer" />
@@ -114,7 +90,8 @@
       <workItem from="1680693671456" duration="19000" />
       <workItem from="1680693713653" duration="6788000" />
       <workItem from="1680774294625" duration="6605000" />
-      <workItem from="1680786953292" duration="4707000" />
+      <workItem from="1680786953292" duration="5450000" />
+      <workItem from="1680851884906" duration="4074000" />
     </task>
     <servers />
   </component>

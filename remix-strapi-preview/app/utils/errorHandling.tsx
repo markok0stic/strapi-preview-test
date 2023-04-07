@@ -1,5 +1,5 @@
 // Custom error class for errors from Strapi API
-import {CLIENT_PREVIEW_SECRET, STRAPI_API_TOKEN, STRAPI_URL_BASE} from "~/utils/url";
+import {CLIENT_PREVIEW_SECRET, STRAPI_API_TOKEN, STRAPI_URL_BASE} from "~/utils/consts";
 import * as process from "process";
 
 class APIResponseError extends Error {

@@ -1,21 +1,19 @@
-import {fetchProducts, fetchProductsPreview} from "~/services/products";
-import {useLoaderData} from "react-router";
+import {fetchProducts} from "~/services/products";
 import Layout from "~/components/Layout";
 import Product from "~/components/Product";
+import {useLoaderData} from "react-router";
+import type {LoaderArgs} from "@remix-run/node";
 
-export async function loader(/*type:string,locale:string,slug:string,secret:string*/)
+export async function loader({ request }: LoaderArgs)
 {
-    return await fetchProductsPreview("slug"); // return the data
+    const url: URL = new URL(request.url);
+    return await fetchProducts(url.searchParams.get("slug") as string);
 }
 
-export default function Index() {
-
+export default function Preview() {
+    const products:any = useLoaderData();
     return (
-        <div>
-
-            WOW
-        </div>
-       /* <Layout>
+        <Layout>
             {
                 products.length > 0 ? (
                     products.map((prod: any) => (
@@ -26,6 +24,6 @@ export default function Index() {
                     <p>No products found!</p>
                 )
             }
-        </Layout>*/
+        </Layout>
     );
 }

@@ -1,8 +1,8 @@
 import {checkEnvVars, checkStatus} from "~/utils/errorHandling";
 
-async function fetchProducts() {
+async function fetchProducts(slug:string) {
     checkEnvVars();
-    const requestUrl = `${process.env.STRAPI_URL_BASE}/api/products?populate=*`;
+    const requestUrl = `${process.env.STRAPI_URL_BASE}/api/products?populate=*&filters[slug][$eq]=${slug}`;
     const response = await fetch(requestUrl,
         {
             method: "GET",
@@ -18,7 +18,6 @@ async function fetchProducts() {
     if (data.error) { // error check
         throw new Response("Error loading data from strapi", { status: 500 });
     }
-
     return data.data;
 }
 async function fetchProductsPreview(slug:string) {
@@ -37,7 +36,7 @@ async function fetchProductsPreview(slug:string) {
     const data = await response.json(); // get the json response
 
     if (data.error) { // error check
-        throw new Response("Error loading data from strapi", { status: 500 });
+        throw new Response("Error loading data from strapi", {status: 500});
     }
 
     return data.data;

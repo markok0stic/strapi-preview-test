@@ -1,6 +1,5 @@
 export default function Product({ product }:any) {
     let data = product.attributes;
-    console.log(data)
     return (
         <div className="product">
             <h1>{data.sku}</h1>
