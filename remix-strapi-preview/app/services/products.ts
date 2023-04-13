@@ -22,6 +22,9 @@ async function fetchProducts(slug:string) {
 }
 async function fetchProductsPreview(slug:string) {
     checkEnvVars();
+    console.log(process.env.STRAPI_URL_BASE);
+    console.log(process.env.STRAPI_API_TOKEN);
+    console.log(slug);
     const requestUrl = `${process.env.STRAPI_URL_BASE}/api/products?publicationState=preview&filters[slug][$eq]=${slug}`;
     const response = await fetch(requestUrl,
         {

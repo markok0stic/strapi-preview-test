@@ -1,10 +1,10 @@
 {
-  "name": "example-preview",
+  "name": "test-preview-button",
   "version": "0.0.0",
   "description": "This is the description of the plugin.",
   "strapi": {
-    "name": "example-preview",
-    "description": "Description of example-preview plugin",
+    "name": "test-preview-button",
+    "description": "Description of test-preview-button plugin",
     "kind": "plugin"
   },
   "dependencies": {
@@ -15,21 +15,19 @@
   },
   "devDependencies": {
     "@strapi/typescript-utils": "^4.6.0",
-    "@types/react": "^17.0.53",
+    "@types/react": "^18.0.35",
     "@types/react-dom": "^17.0.18",
     "@types/react-router-dom": "^5.3.3",
     "@types/styled-components": "^5.1.26",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "react-router-dom": "^5.3.4",
-    "styled-components": "^5.3.6",
-    "typescript": "4.6.3"
+    "react-router-dom": "^5.3.4"
   },
   "peerDependencies": {
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-router-dom": "^5.3.4",
-    "styled-components": "^5.3.6"
+    "styled-components": "^5.2.1"
   },
   "author": {
     "name": "A Strapi developer"

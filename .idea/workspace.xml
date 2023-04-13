@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="024747cc-d521-4b4e-85e2-52c184c17f85" name="Changes" comment="">
+<<<<<<< Updated upstream
       <change afterPath="$PROJECT_DIR$/remix-strapi-preview/app/routes/api.tsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/remix-strapi-preview/app/routes/preview.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -17,6 +18,9 @@
       <change beforePath="$PROJECT_DIR$/remix-strapi-preview/app/services/products.ts" beforeDir="false" afterPath="$PROJECT_DIR$/remix-strapi-preview/app/services/products.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/remix-strapi-preview/app/utils/errorHandling.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/remix-strapi-preview/app/utils/errorHandling.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/remix-strapi-preview/app/utils/url.ts" beforeDir="false" afterPath="$PROJECT_DIR$/remix-strapi-preview/app/utils/consts.ts" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> Stashed changes
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,10 +61,17 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+<<<<<<< Updated upstream
     &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;settings.nodejs&quot;,
     &quot;ts.external.directory.path&quot;: &quot;/home/codemancydev/Documents/GitHub/strapi-preview-test/remix-strapi-preview/node_modules/typescript/lib&quot;,
+=======
+    &quot;nodejs_interpreter_path&quot;: &quot;/home/marko/.nvm/versions/node/v18.15.0/bin/node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.nodejs&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/home/marko/Documents/GitHub/strapi-preview-test/remix-strapi-preview/node_modules/typescript/lib&quot;,
+>>>>>>> Stashed changes
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -88,14 +99,33 @@
       <workItem from="1680685929712" duration="1140000" />
       <workItem from="1680693634002" duration="27000" />
       <workItem from="1680693671456" duration="19000" />
+<<<<<<< Updated upstream
       <workItem from="1680693713653" duration="6788000" />
       <workItem from="1680774294625" duration="6605000" />
       <workItem from="1680786953292" duration="5450000" />
       <workItem from="1680851884906" duration="4074000" />
+=======
+      <workItem from="1680693713653" duration="7256000" />
+      <workItem from="1681284917456" duration="599000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+<<<<<<< Updated upstream
+=======
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/remix-strapi-preview/app/routes/_index.tsx</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+>>>>>>> Stashed changes
 </project>

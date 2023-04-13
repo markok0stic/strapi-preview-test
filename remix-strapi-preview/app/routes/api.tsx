@@ -6,6 +6,8 @@ import type {LoaderArgs} from "@remix-run/node";
 
 export async function loader({ request }: LoaderArgs)
 {
+    console.log(request.headers.get('Authorization'));
+    console.log(request.headers);
     const url: URL = new URL(request.url);
     return await fetchProducts(url.searchParams.get("slug") as string);
 }
